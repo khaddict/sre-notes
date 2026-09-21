@@ -1,0 +1,9 @@
+# logs
+
+1. /var/log
+2. journald
+3. journalctl
+4. rsyslog
+5. logrotate
+6. niveaux de sévérité
+7. dmesg
