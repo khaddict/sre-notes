@@ -1,5 +1,7 @@
 # processus
 
+Le suivi, le contrôle et le débogage des processus d'un système Linux, de leur lancement à leur arrêt...
+
 1. processus
 2. ps
 3. top

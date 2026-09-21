@@ -1,6 +1,6 @@
 # systemd & services
 
-Les services systemd : unités, timers, tâches planifiées, dépannage...
+La gestion des services avec systemd : unités, timers, tâches planifiées, redémarrage automatique, dépannage...
 
 1. systemctl
 2. unit files

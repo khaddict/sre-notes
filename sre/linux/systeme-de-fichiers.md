@@ -1,6 +1,6 @@
 # système de fichiers
 
-Les fondamentaux du système de fichiers : arborescence, liens symboliques et physiques, inodes...
+Les fondamentaux du système de fichiers : arborescence, liens symboliques et physiques, inodes, stat...
 
 1. fhs
    - /proc

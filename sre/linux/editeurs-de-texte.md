@@ -1,6 +1,6 @@
 # éditeurs de texte
 
-Les éditeurs de texte à connaître en ligne de commande pour lire et modifier un fichier rapidement.
+Les éditeurs de texte nano et vim pour lire et modifier rapidement un fichier depuis un terminal Linux.
 
 1. nano
 2. vim

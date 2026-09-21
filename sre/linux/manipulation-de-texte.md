@@ -1,5 +1,7 @@
 # manipulation de texte
 
+Les outils en ligne de commande pour lire, filtrer, transformer, rechercher, comparer, trier du texte...
+
 1. pipes
 2. redirections
 3. /dev/null

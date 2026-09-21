@@ -1,6 +1,6 @@
 # logs
 
-Les logs système : où les trouver, comment les consulter, comment gérer leur rotation...
+Les logs système : où les trouver, comment les consulter, les filtrer, comment gérer leur rotation...
 
 1. /var/log
 2. journald

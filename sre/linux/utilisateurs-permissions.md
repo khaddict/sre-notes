@@ -1,5 +1,7 @@
 # utilisateurs & permissions
 
+Les utilisateurs, les groupes, les permissions d'accès aux fichiers et répertoires, les droits sudo...
+
 1. utilisateurs
 2. useradd
 3. usermod
