@@ -1,4 +1,4 @@
-# système de fichiers
+# 🔴 système de fichiers
 
 Les fondamentaux du système de fichiers : arborescence, liens symboliques et physiques, inodes, stat...
 

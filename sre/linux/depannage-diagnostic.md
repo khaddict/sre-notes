@@ -1,4 +1,4 @@
-# dépannage & diagnostic
+# 🔴 dépannage & diagnostic
 
 Une méthode et des scénarios types pour diagnostiquer un incident Linux, de la détection à la résolution.
 

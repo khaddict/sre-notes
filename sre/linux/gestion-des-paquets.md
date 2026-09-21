@@ -1,4 +1,4 @@
-# gestion des paquets
+# 🔴 gestion des paquets
 
 Les paquets sous Debian et Ubuntu avec apt : installation, mises à jour, dépôts, gel de versions, GPG...
 

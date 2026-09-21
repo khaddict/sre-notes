@@ -1,4 +1,4 @@
-# commandes de base
+# 🔴 commandes de base
 
 Les commandes pour naviguer dans l'arborescence, manipuler des fichiers, consulter l'aide, l'historique...
 

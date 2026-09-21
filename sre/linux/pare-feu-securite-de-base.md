@@ -1,4 +1,4 @@
-# pare-feu & sécurité de base
+# 🔴 pare-feu & sécurité de base
 
 Configurer un pare-feu et appliquer les premiers réflexes de durcissement sur un serveur Linux exposé.
 

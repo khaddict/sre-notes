@@ -1,4 +1,4 @@
-# bash
+# 🔴 bash
 
 Les bases du scripting bash : variables, arguments, structures de contrôle, fonctions, bonnes pratiques...
 

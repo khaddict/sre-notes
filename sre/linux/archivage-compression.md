@@ -1,4 +1,4 @@
-# archivage & compression
+# 🔴 archivage & compression
 
 L'archivage, la compression et la synchronisation de fichiers entre plusieurs machines : tar, gzip, rsync.
 

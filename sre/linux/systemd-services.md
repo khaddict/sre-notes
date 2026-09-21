@@ -1,4 +1,4 @@
-# systemd & services
+# 🔴 systemd & services
 
 La gestion des services avec systemd : unités, timers, tâches planifiées, redémarrage automatique, dépannage...
 
