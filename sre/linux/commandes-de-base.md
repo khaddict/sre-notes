@@ -1,7 +1,5 @@
 # commandes de base
 
-test test test test test test test test test test test test test test test test test test test
-
 1. ls
 2. cd
 3. pwd
