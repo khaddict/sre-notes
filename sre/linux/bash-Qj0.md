@@ -1,5 +1,7 @@
 # bash
 
+Les bases du scripting bash : variables, structures de contrôle, fonctions, bonnes pratiques...
+
 1. shebang
 2. variables
 3. quoting

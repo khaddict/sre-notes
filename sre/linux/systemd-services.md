@@ -1,5 +1,7 @@
 # systemd & services
 
+Les services systemd : unités, timers, tâches planifiées, dépannage...
+
 1. systemctl
 2. unit files
 3. drop-ins

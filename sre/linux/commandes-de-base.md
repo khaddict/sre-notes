@@ -1,6 +1,6 @@
 # commandes de base
 
-Les commandes qui permettent de naviguer dans l'arborescence, manipuler des fichiers, accéder à l'aide et à l'historique.
+Les commandes essentielles pour naviguer dans l'arborescence, manipuler des fichiers, consulter l'aide, l'historique...
 
 1. ls
 2. cd

@@ -1,6 +1,6 @@
 # système de fichiers
 
-Les fondamentaux du système de fichiers sous Linux : organisation, liens symboliques et physiques, inodes...
+Les fondamentaux du système de fichiers : arborescence, inodes, liens symboliques et physiques...
 
 1. fhs
    - /proc
