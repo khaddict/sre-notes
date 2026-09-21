@@ -1,6 +1,10 @@
 # système de fichiers
 
 1. fhs
-2. symlink
-3. hardlink
-4. inodes
+   - /proc
+   - /dev
+2. types de fichiers
+3. symlink
+4. hardlink
+5. inodes
+6. stat

@@ -1,4 +1,4 @@
 # éditeurs de texte
 
-1. vim
-2. nano
+1. nano
+2. vim
