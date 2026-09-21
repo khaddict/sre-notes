@@ -1,4 +1,4 @@
-# 🔴 réseau
+# 🔴 Réseau
 
 Le diagnostic réseau, de la simple connectivité à la résolution DNS : ports, connexions, certificats TLS...
 

@@ -1,4 +1,4 @@
-# 🔴 stockage & disques
+# 🔴 Stockage & disques
 
 Le stockage : partitionnement, montage, fstab, systèmes de fichiers, LVM, extension de volumes, RAID...
 

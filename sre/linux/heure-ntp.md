@@ -1,4 +1,4 @@
-# 🔴 heure & ntp
+# 🔴 Heure & NTP
 
 La gestion de l'heure système et sa synchronisation avec un serveur NTP via chrony ou systemd-timesyncd.
 

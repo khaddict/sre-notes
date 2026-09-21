@@ -1,4 +1,4 @@
-# 🔴 ssh
+# 🔴 SSH
 
 SSH : connexion, authentification par clés, tunnels, accès via bastion, bonnes pratiques de configuration...
 
