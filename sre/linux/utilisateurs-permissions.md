@@ -1,4 +1,4 @@
-# 🔴 utilisateurs & permissions
+# 🔴 Utilisateurs & permissions
 
 Les utilisateurs, les groupes, les permissions d'accès aux fichiers et répertoires, les droits sudo...
 

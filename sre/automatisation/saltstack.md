@@ -1,3 +1,3 @@
-# SaltStack
+# 🔴 SaltStack
 
 placeholder

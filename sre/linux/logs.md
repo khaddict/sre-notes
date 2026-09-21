@@ -1,4 +1,4 @@
-# 🔴 logs
+# 🔴 Logs
 
 Les logs système : où les trouver, comment les consulter, les filtrer, comment gérer leur rotation...
 

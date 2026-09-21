@@ -1,4 +1,4 @@
-# 🔴 manipulation de texte
+# 🔴 Manipulation de texte
 
 Les outils en ligne de commande pour lire, filtrer, transformer, rechercher, comparer, trier du texte...
 
