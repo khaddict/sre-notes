@@ -1,5 +1,7 @@
 # ressources & performance
 
+Le suivi de l'utilisation du CPU, de la mémoire et du disque pour diagnostiquer un système sous tension...
+
 1. uptime
 2. load average
 3. cpu

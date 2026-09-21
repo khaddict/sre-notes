@@ -1,5 +1,7 @@
 # réseau
 
+Le diagnostic réseau, de la simple connectivité à la résolution DNS : ports, connexions, certificats TLS...
+
 1. ip
 2. ss
 3. ping

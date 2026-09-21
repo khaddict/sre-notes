@@ -1,5 +1,7 @@
 # stockage & disques
 
+Le stockage : partitionnement, montage, fstab, systèmes de fichiers, LVM, extension de volumes, RAID...
+
 1. lsblk
 2. fdisk
 3. systèmes de fichiers

@@ -1,5 +1,7 @@
 # démarrage & noyau
 
+Identifier un serveur (distribution, noyau, matériel) et comprendre son démarrage : boot, GRUB, rescue...
+
 1. /etc/os-release
 2. hostnamectl
 3. lscpu
